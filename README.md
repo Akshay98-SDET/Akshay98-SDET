@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Akshay 👋
 
-<!--
-**Akshay98-SDET/Akshay98-SDET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 QA Engineer | 4.2 Years Experience | SDET
 
-Here are some ideas to get you started:
+🔹 Skilled in Java, Selenium, TestNG, API Testing
+🔹 Expertise in building scalable Automation Frameworks
+🔹 Passionate about CI/CD and test optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+* Selenium WebDriver, TestNG
+* Rest Assured, Postman
+* Java, Maven
+* Jenkins, GitHub Actions
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 E-Commerce Automation Framework
+
+✔ Page Object Model (POM)
+✔ Data-driven framework
+✔ Parallel execution
+✔ Reporting (Extent / Allure)
+
+👉 https://github.com/Akshay98-SDET/E-CommerceSite_Automation
+
+---
+
+## 📫 Connect with Me
+
+* LinkedIn: (https://www.linkedin.com/in/akshayjagadal)
+* Email: (akshay.rajendra26@gmail.com)
