@@ -1,36 +1,41 @@
 # Hi, I'm Akshay 👋
 
-🚀 QA Engineer | 4.2 Years Experience | SDET
+🚀 **SDET | QA Engineer | 4.2+ Years Experience in Automation Testing**
 
-🔹 Skilled in Java, Selenium, TestNG, API Testing
-🔹 Expertise in building scalable Automation Frameworks
-🔹 Passionate about CI/CD and test optimization
+I specialize in designing and building **scalable, maintainable automation frameworks** for web and API testing.
+With strong expertise in **Java-based test automation**, I focus on improving test reliability, execution speed, and CI/CD integration.
+
+---
+
+## 🔹 What I Bring
+
+✔ Strong experience in **UI & API Automation**
+✔ Hands-on in building **end-to-end test frameworks from scratch**
+✔ Expertise in **test optimization, debugging & defect analysis**
+✔ Experience working with **Agile teams & real-world production systems**
 
 ---
 
 ## 🛠 Tech Stack
 
-* Selenium WebDriver, TestNG
-* Rest Assured, Postman
-* Java, Maven
-* Jenkins, GitHub Actions
+* **Automation:** Selenium WebDriver, TestNG, Cucumber
+* **API Testing:** Rest Assured, Postman
+* **Language & Build:** Java, Maven
+* **CI/CD:** Jenkins, GitHub Actions
 
 ---
 
-## 📌 Featured Projects
+## ⚙️ Framework Highlights
 
-### 🔹 E-Commerce Automation Framework
-
-✔ Page Object Model (POM)
-✔ Data-driven framework
-✔ Parallel execution
-✔ Reporting (Extent / Allure)
-
-👉 https://github.com/Akshay98-SDET/E-CommerceSite_Automation
+✔ Page Object Model (POM) design pattern
+✔ Data-driven & modular framework architecture
+✔ Parallel test execution for faster feedback
+✔ Integrated reporting (Extent / Allure)
+✔ CI/CD pipeline integration for continuous testing
 
 ---
 
 ## 📫 Connect with Me
 
-* LinkedIn: (https://www.linkedin.com/in/akshayjagadal)
-* Email: (akshay.rajendra26@gmail.com)
+* 🔗 LinkedIn: https://www.linkedin.com/in/akshayjagadal
+* 📧 Email: [akshay.rajendra26@gmail.com](mailto:akshay.rajendra26@gmail.com)
