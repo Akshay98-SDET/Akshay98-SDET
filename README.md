@@ -1,6 +1,6 @@
 # Hi, I'm Akshay 👋
 
-🚀 **SDET | QA Engineer | 4.2+ Years Experience in Automation Testing**
+🚀 **SDET | QA Engineer | 4.4+ Years Experience in Automation Testing**
 
 I specialize in designing and building **scalable, maintainable automation frameworks** for web and API testing.
 With strong expertise in **Java-based test automation**, I focus on improving test reliability, execution speed, and CI/CD integration.
