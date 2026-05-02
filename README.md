@@ -1,41 +1,55 @@
 # Hi, I'm Akshay 👋
 
-🚀 **SDET | QA Engineer | 4.4+ Years Experience in Automation Testing**
+🚀 **SDET | QA Engineer | 4+ Years in Automation Testing**
 
-I specialize in designing and building **scalable, maintainable automation frameworks** for web and API testing.
-With strong expertise in **Java-based test automation**, I focus on improving test reliability, execution speed, and CI/CD integration.
+I work on building **reliable and scalable automation solutions** for both UI and API layers.  
+My focus is not just on writing tests, but on creating **frameworks that are maintainable, fast, and production-ready**, with proper CI/CD integration.
+
+Over the years, I’ve worked on improving **test stability, execution time, and debugging efficiency** in real-world projects.
 
 ---
 
-## 🔹 What I Bring
+## 🔹 What I Do
 
-✔ Strong experience in **UI & API Automation**
-✔ Hands-on in building **end-to-end test frameworks from scratch**
-✔ Expertise in **test optimization, debugging & defect analysis**
-✔ Experience working with **Agile teams & real-world production systems**
+- Build **end-to-end automation frameworks** for web and APIs  
+- Design reusable components to reduce duplication and improve maintainability  
+- Handle **flaky tests, dynamic elements, and real-time debugging challenges**  
+- Integrate automation with **CI/CD pipelines for continuous validation**  
+- Work closely with dev teams in **Agile environments**  
 
 ---
 
 ## 🛠 Tech Stack
 
-* **Automation:** Selenium WebDriver, TestNG, Cucumber
-* **API Testing:** Rest Assured, Postman
-* **Language & Build:** Java, Maven
-* **CI/CD:** Jenkins, GitHub Actions
+- **Automation:** Selenium WebDriver, PlayWright, TestNG, Cucumber  
+- **API Testing:** Rest Assured, Postman  
+- **Language:** Java, Python
+- **Build Tool:** Maven  
+- **CI/CD:** Jenkins, GitHub Actions  
 
 ---
 
-## ⚙️ Framework Highlights
+## ⚙️ Framework Experience
 
-✔ Page Object Model (POM) design pattern
-✔ Data-driven & modular framework architecture
-✔ Parallel test execution for faster feedback
-✔ Integrated reporting (Extent / Allure)
-✔ CI/CD pipeline integration for continuous testing
+- Designed frameworks using **Page Object Model (POM)**  
+- Implemented **data-driven testing** using JSON/CSV  
+- Enabled **parallel execution** to reduce execution time  
+- Added **retry mechanisms and proper waits** to handle flaky tests  
+- Integrated **reporting (Extent / HTML reports)** for better visibility  
+- Built CI/CD pipelines to run tests on every commit  
+
+---
+
+## 💡 What I Focus On
+
+- Writing **clean, readable, and reusable code**  
+- Making automation **stable and less flaky**  
+- Reducing execution time with optimized test design  
+- Ensuring tests add **real value to the product quality**  
 
 ---
 
 ## 📫 Connect with Me
 
-* 🔗 LinkedIn: https://www.linkedin.com/in/akshayjagadal
-* 📧 Email: [akshay.rajendra26@gmail.com](mailto:akshay.rajendra26@gmail.com)
+- 🔗 LinkedIn: https://www.linkedin.com/in/akshayjagadal  
+- 📧 Email: akshay.rajendra26@gmail.com  
